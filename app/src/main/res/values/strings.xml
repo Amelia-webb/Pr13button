@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pr_3button</string>
+
+    <string name="main_zero">0</string>
+    <string name="main_toast">Toast</string>
+    <string name="main_count">Count</string>
+    <string name="main_random">Random</string>
+    <string name="main_subtract">Subtract</string>
+
+    <string name="random_description">Это случайное число между 0 и %1d.</string>
+    <string name="random_count">R</string>
+</resources>
